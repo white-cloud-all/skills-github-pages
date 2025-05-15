@@ -9,7 +9,22 @@
 
 # 仓库说明
 
-_可视化仓库，请定期将代码提交到仓库中_
+可视化仓库，请定期将代码提交到仓库中
+
+1.克隆仓库
+_git clone https://github.com/white-cloud-all/skills-github-pages.git
+cd skills-github-pages_
+
+2.将hello.txt文件添加到Git暂存区
+_git add hello.txt_
+ 或者添加所有更改
+_git add._
+
+3.提交更改到本地仓库
+_git commit -m "Add hello.txt"_
+
+4.将更改推送到GitHub仓库
+git push https://github.com/white-cloud-all/skills-github-pages.git main
 
 </header>
 
